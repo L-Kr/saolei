@@ -1,0 +1,9 @@
+F:\学霸\C#\扫雷\扫雷\bin\Debug\扫雷.exe.config
+F:\学霸\C#\扫雷\扫雷\bin\Debug\扫雷.exe
+F:\学霸\C#\扫雷\扫雷\bin\Debug\扫雷.pdb
+F:\学霸\C#\扫雷\扫雷\obj\Debug\扫雷.csprojResolveAssemblyReference.cache
+F:\学霸\C#\扫雷\扫雷\obj\Debug\扫雷.Form1.resources
+F:\学霸\C#\扫雷\扫雷\obj\Debug\扫雷.Properties.Resources.resources
+F:\学霸\C#\扫雷\扫雷\obj\Debug\扫雷.csproj.GenerateResource.Cache
+F:\学霸\C#\扫雷\扫雷\obj\Debug\扫雷.exe
+F:\学霸\C#\扫雷\扫雷\obj\Debug\扫雷.pdb
